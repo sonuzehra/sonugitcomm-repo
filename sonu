@@ -1,0 +1,9 @@
+git --version
+git status
+git add filename
+git config --global user.mail "nazeesonu77@gmail.com"
+git config --global user.name "sonuzehra"
+git commit -m "sonu sens git commands"
+git branch
+git branch -M
+git checkout -m
